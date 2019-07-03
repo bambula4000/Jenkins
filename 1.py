@@ -1,1 +1,1 @@
-print('hello world from 1.py')
+print('hello world from script 1.py')
